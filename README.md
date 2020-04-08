@@ -1,6 +1,8 @@
 # nodejs-rest-cw
 node.js REST classwork
 
+You have to ask questions if you're stuck. You have to go to study session. And you have to improve from here.
+### Score : 0
 # In your web service
 - Create endpoints using RESTful syntax to support the 4 CRUD operations for a `blogpost` resource
   - The endpoints should accept and/or return JSON user objects with the following properties:
